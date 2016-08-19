@@ -255,7 +255,7 @@
 			"name": "Material"
 		}
 	],
-	"Photograph": [{
+	"Photography": [{
 			"author": "Bobby Bray",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray1.jpg",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray1.jpg",
@@ -355,7 +355,7 @@
 		}
 
 	],
-	"CG": [{
+	"Random": [{
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/nexus-bw.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/cg1.jpg",
@@ -377,6 +377,27 @@
 			"name": "Sparks Droid"
 		}
 
+	],
+	"Gradient": [{
+			"author": "Newbz",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/nexus-bw.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/cg1.jpg",
+			"name": "Nexus light"
+		}
+	],
+	"by Kristian Bell": [{
+			"author": "Newbz",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/nexus-bw.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/cg1.jpg",
+			"name": "Nexus light"
+		}
+	],
+	"by Navin Rai": [{
+			"author": "Newbz",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/nexus-bw.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/cg1.jpg",
+			"name": "Nexus light"
+		}
 	]
 
 }
